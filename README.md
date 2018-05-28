@@ -1,2 +1,2 @@
 # hello-world
-Just another exquisite restore
+Just another exquisite repository 
